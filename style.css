@@ -1,7 +1,7 @@
 .logo{
-    width: 70px;
+    width: 100px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 0%;
 
 }
 .reader{
@@ -10,4 +10,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.card img{
+    width: 70px;
+    height: 150px;
+    border-radius: 50%;
 }
